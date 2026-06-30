@@ -20,8 +20,7 @@
 ```python
 harshit = {
     "institute"  : "CGC College of Engineering, Landran",
-    "degree"     : "B.Tech ECE (2024-2028)",
-    "training"   : "AI/ML with Python @ ThinkNEXT Technologies",
+    "degree"     : "B.Tech ENC (2024-2028)",
     "focus"      : ["Machine Learning", "Python", "Web Dev"],
     "currently"  : "Building AI/ML portfolio projects",
     "goal"       : "SWE Placement in 1-2 years"
