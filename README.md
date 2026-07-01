@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d4a2e,1a1a1a,2c2c2c&height=200&section=header&text=Harshit&fontSize=80&fontColor=000000&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%2FML%20Developer&descAlignY=58&descColor=666666&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1e,1a2a4a,2a4a7a&height=200&section=header&text=Harshit&fontSize=80&fontColor=000000&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%2FML%20Developer&descAlignY=58&descColor=666666&animation=fadeIn" />
 
 </div>
 </div>
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8A9E6B&center=true&vCenter=true&width=500&lines=Building+AI+%26+ML+projects...;ECE+Student+%40+CGC+Landran;Python+%7C+Flask+%7C+Scikit-Learn;Always+learning%2C+always+building.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Building+AI+%26+ML+projects...;ECE+Student+%40+CGC+Landran;Python+%7C+Flask+%7C+Scikit-Learn;Always+learning%2C+always+building.)
 
 </div>
 
@@ -17,15 +17,17 @@
 
 ## ⬡ About
 
-```python
-harshit = {
-    "institute"  : "CGC College of Engineering, Landran",
-    "degree"     : "B.Tech ENC (2024-2028)",
-    "focus"      : ["Machine Learning", "Python", "Web Dev"],
-    "currently"  : "Building AI/ML portfolio projects",
-    "goal"       : "SWE Placement in 1-2 years"
-}
-```
+<div align="center">
+
+| | |
+|--|--|
+| 🎓 Institute | CGC College of Engineering, Landran |
+| 📚 Degree | B.Tech ENC (2024-2028) |
+| 🎯 Focus | Machine Learning · Python · Web Dev |
+| 🔨 Currently | Building AI/ML portfolio projects |
+| 🚀 Goal | SWE Placement in 2-3 years |
+
+</div>
 
 ---
 
@@ -64,7 +66,7 @@ harshit = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3d4a2e,1a1a1a,2c2c2c&height=100&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1e,1a2a4a,2a4a7a&height=100&section=footer&animation=fadeIn" />
 
 </div>
 
