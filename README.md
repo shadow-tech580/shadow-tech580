@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,27&text=Harshit&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%2FML%20Developer&descAlignY=58&descColor=d6e4ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,27&text=Harshit&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=ENC%20Student%20%7C%20AI%2FML%20Developer&descAlignY=58&descColor=d6e4ff&animation=fadeIn" />
 
 # Hi 👋 I'm Harshit
 
