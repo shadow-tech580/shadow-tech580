@@ -4,7 +4,7 @@
 
 # Hi 👋 I'm Harshit
 
-### AI/ML Developer • ECE Student • Python Enthusiast
+### AI/ML Developer • ENC Student • Python Enthusiast
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+%26+Machine+Learning+Projects...;B.Tech+ECE+%40+CGC+Landran;Python+%7C+Flask+%7C+Scikit-Learn;Open+Source+Learner;Always+Learning.+Always+Building.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+%26+Machine+Learning+Projects...;B.Tech+ENC+%40+CGC+Landran;Python+%7C+Flask+%7C+Scikit-Learn;Open+Source+Learner;Always+Learning.+Always+Building.)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 | 🎓 Institute | CGC College of Engineering, Landran |
 |--------------|-------------------------------------|
-| 📚 Degree | B.Tech ECE (2024–2028) |
+| 📚 Degree | B.Tech ENC (2024–2028) |
 | 🎯 Focus | Machine Learning • Python • Web Development |
 | 🔨 Currently | Building AI/ML Portfolio Projects |
 | 🚀 Goal | Software Engineer Placement |
